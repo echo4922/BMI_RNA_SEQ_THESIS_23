@@ -1,8 +1,7 @@
 # BMI_RNA_SEQ_23
-RNA-SEQ Analysis Graduate Thesis
+RNA-SEQ Analysis Graduate Research by Eddie Cho
 
 How to analyze RNA sequencing Data from start to finish
-
 Student's guide to analyze Biological Data for students by a student (me) <br />
 
 To keep track record of what I am doing for Master's Thesis as Bioinformatics student, I have decided to create a github repository.
