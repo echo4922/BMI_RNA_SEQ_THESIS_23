@@ -4,7 +4,7 @@ RNA-SEQ Analysis Graduate Research by Eddie Cho
 How to analyze RNA sequencing Data <br />
 Student's guide to analyze Biological Data for students by a student (me) <br />
 
-To keep track record of what I am doing for Master's Thesis as Bioinformatics student, I have decided to create a github repository.
+To keep track record of what I am doing for Master's Thesis as Bioinformatics student, I have decided to create a github page.
 I'm not an expert by all means. After all, I am just a student trying to figure things out. Three specific purposes for this github repository: <br />
 
 #1. To hold myself accountable and save changes/logs <br />
